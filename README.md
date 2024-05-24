@@ -11,3 +11,14 @@ O módulo inventory comtem a função "check_availability(cart,inventory)" <br>
 cart = identificador do cart dentro de um dicionario <br>
 discount = valor do desconto de 0% a 100% <br>
 inventory = dicionario que contem todos os produtos <br>
+<br>
+<br>
+<br>
+<br>
+<t>Requisitos
+<br>
+Para usar este package, necessita o python
+<t>Instalação
+<br>
+Para instalar use este código no terminal:<br>
+"pip install git+https://github.com/FranCasado207/shoppingutils"
