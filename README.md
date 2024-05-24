@@ -22,6 +22,6 @@ Para usar este package, necessita o python 3.10<br>
 <t>Instalação
 <br>
 Para instalar use este código no terminal:<br>
-<div style="background-colour:yellow">
+<div style="background-color:yellow">
 pip install git+https://github.com/FranCasado207/shoppingutils
 </div>
