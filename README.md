@@ -17,7 +17,8 @@ inventory = dicionario que contem todos os produtos <br>
 <br>
 <t>Requisitos
 <br>
-Para usar este package, necessita o python
+Para usar este package, necessita o python 3.10<br>
+<br>
 <t>Instalação
 <br>
 Para instalar use este código no terminal:<br>
